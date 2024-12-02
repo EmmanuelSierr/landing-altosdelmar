@@ -22,7 +22,7 @@ const BitrixForm = () => {
   return (
     <div className="flex pr-4 " >
       <img
-        src="public/ESCALADAS_ALTOS_DEL_MAR/ima5.png"
+        src="../ESCALADAS_ALTOS_DEL_MAR/ima5.png"
         alt="Imagen relacionada"
         style={{ width: "70%", height: "auto", overflow: "hidden", objectFit: "cover" }}
       />
